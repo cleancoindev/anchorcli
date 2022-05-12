@@ -30,7 +30,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@anchor-protocol/anchor.js": "1.0.2",
+    "@anchor-protocol/anchor.js": "1.4.0",
     "@terra-money/terra.js": "^1.8.3",
     "@types/jest": "^26.0.22",
     "chalk": "^4.1.0",
