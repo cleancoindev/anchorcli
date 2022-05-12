@@ -32,7 +32,7 @@
   "dependencies": {
     "@anchor-protocol/anchor.js": "1.0.2",
     "@terra-money/terra.js": "^1.8.3",
-    "@types/jest": "^26.0.22",
+    "@types/jest": "^26.0.24",
     "chalk": "^4.1.0",
     "clear": "^0.1.0",
     "commander": "^6.2.0",
